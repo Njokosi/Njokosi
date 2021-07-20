@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ruby and go.
 - 📫 How to reach me eng.njokosi@gmail.com.
 
-![Njokosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=njokosi&show_icons=true&theme=radical&count_private=true)
+![Njokosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=njokosi&show_icons=true&theme=algolia&count_private=true)
 
 
 <!---
