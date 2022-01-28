@@ -1,4 +1,6 @@
 ![Njokosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=njokosi&show_icons=true&theme=algolia&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=njokosi)](https://github.com/njokosi/github-profile-trophy)
+
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/njokosi.svg?style=social&label=Follow%20njokosi)](https://twitter.com/njokosi)
 
