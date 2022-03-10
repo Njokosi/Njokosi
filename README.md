@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @Njokosi
 - 👀 I’m interested in Security and Software Development
-- 🌱 I’m currently working as software developer.
+- 🌱 I’m currently working as Fullstack software engineer.
 - 💞️ I’m looking to collaborate on Python, Java and Javascript projects.
 - 🌱 I’m currently learning ruby and go.
 - 📫 How to reach me eng.njokosi@gmail.com.
